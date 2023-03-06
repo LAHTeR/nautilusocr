@@ -2,11 +2,11 @@ editdistance==0.5.3
 hunspell==0.5.5
 kraken==2.0.8
 langid==1.1.6
-lxml==4.5.2
-numpy==1.16.6
+lxml==4.9.2
+numpy==1.24.2
 opencv_python==4.4.0.42
 Pillow==8.0.1
-tensorflow==2.3.1
-tensorflow_gpu==2.3.1
+tensorflow==2.11.0
+tensorflow_gpu==2.11.0
 trdg==1.7.0
 tqdm==4.48.2
